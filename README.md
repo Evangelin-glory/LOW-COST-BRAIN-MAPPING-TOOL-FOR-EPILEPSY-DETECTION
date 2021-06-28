@@ -1,0 +1,2 @@
+# LOW-COST-BRAIN-MAPPING-TOOL-FOR-EPILEPSY-DETECTION
+Our invention Low cost brain mapping tool for epilepsy detection which is a novel  approach to automatically detect the epileptic brain maps from artifact brain maps  is proposed to assist the doctors in diagnosing epileptic signals effortlessly by  analyzing the epileptic zone indicated in the brain maps. EEG signal is pre-processed,  source separated and classified using K-NN classifier.
